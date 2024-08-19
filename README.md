@@ -3,9 +3,12 @@
 Geolib is
 
 A small library to provide some basic geo functions like distance calculation, conversion of decimal coordinates to sexagesimal and vice versa, etc.
+I copy the whole project of org source code from mb2o/geolib because there a another geolib in github and have more stars than this .
+but the question is ,that geolib is a node.js version ,this is pure JS version ,So I can not fork both two geolib in my repos .
+Then ,I do it for the one who want fork them all .
+Thanks for mb2o/geolib work so well !If it updated I will upkeep this repo .
 
-
-##base source code from URL:
+base source code from URL:
 https://github.com/mb2o/geolib
 
 
